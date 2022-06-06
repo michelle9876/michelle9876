@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelle9876&label=Profile%20views&color=0e75b6&style=flat" alt="michelle9876" /> </p>
 
-- 🔭 I’m currently working on **FYP**
-
-- 🌱 I’m currently learning **React, firebase, AI**
+- 🔭 My final year project link: https://green-point.vercel.app
 
 - 📫 How to reach me **kimbg9876@gmail.com**
 
