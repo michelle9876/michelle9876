@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BoGyeong Kim</h1>
 <h3 align="center"> Having graduated with a degree in Computer Science, 
   I am deeply passionate about working on diverse projects 
-  and exploring various programming languages to tackle and solve problems effectively. .</h3>
+  and exploring various programming languages to tackle and solve problems effectively.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelle9876&label=Profile%20views&color=0e75b6&style=flat" alt="michelle9876" /> </p>
 
