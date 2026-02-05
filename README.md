@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelle9876&label=Profile%20views&color=0e75b6&style=flat" alt="michelle9876" /> </p>
 
-- 🔭 My final year project link: https://green-point.vercel.app
-
 - 📫 How to reach me **kimbg9876@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bogyeong-kim/](https://www.linkedin.com/in/bogyeong-kim/)
